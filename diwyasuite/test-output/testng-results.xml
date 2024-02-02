@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="794" started-at="2024-01-26T12:39:20 IST" finished-at="2024-01-26T12:39:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="794" started-at="2024-01-26T12:39:20 IST" finished-at="2024-01-26T12:39:21 IST">
+      <class name="excell.e1">
+        <test-method status="PASS" signature="t1()[pri:0, instance:excell.e1@704a52ec]" name="t1" duration-ms="753" started-at="2024-01-26T12:39:20 IST" finished-at="2024-01-26T12:39:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+      </class> <!-- excell.e1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
